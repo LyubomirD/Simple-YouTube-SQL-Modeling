@@ -46,3 +46,8 @@ This repository contains a simplified SQL schema for modeling a YouTube-like sys
 
 - Crow's Notation Diagram
 ![Crow's Notation Diagram.png](Crow%27s%20Notation%20Diagram.png)
+
+
+
+- Data Warehouse Diagram
+![YoutubeDataWarehouseDiagram.drawio.png](YoutubeDataWarehouseDiagram.drawio.png)
